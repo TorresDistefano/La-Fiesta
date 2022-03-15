@@ -1,0 +1,46 @@
+header{
+
+    *{  margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+    .bloque1{
+        border-top: 1px black solid;
+        height: 200px;
+        background-color: white;
+       text-align: center;
+
+        // a la hora de responsive , correr logo hacia la izquierda
+
+        .logo{
+border-radius: 50%;
+padding: 25px;
+
+
+
+        }
+    }
+
+    img{
+        width: 220px;
+        margin: 10px;
+        
+    }
+
+    .navegador{
+        display: flex;
+        justify-content: space-around;
+    }
+
+section{ 
+
+    .espacio{
+        height: 20px;
+        background-color: white;
+        
+    }
+}
+}

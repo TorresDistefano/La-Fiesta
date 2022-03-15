@@ -1,0 +1,41 @@
+header * {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box; }
+
+header .bloque1 {
+  border-top: 1px black solid;
+  height: 200px;
+  background-color: white;
+  text-align: center; }
+  header .bloque1 .logo {
+    border-radius: 50%;
+    padding: 25px; }
+
+header img {
+  width: 220px;
+  margin: 10px; }
+
+header .navegador {
+  display: flex;
+  justify-content: space-around; }
+
+header section .espacio {
+  height: 20px;
+  background-color: white; }
+
+main ::-webkit-scrollbar {
+  display: none; }
+
+main .bloque1 {
+  margin: 2px; }
+
+main img {
+  margin: 35px;
+  width: 100%; }
+
+main h2 {
+  font-size: 50px; }
+
+main section {
+  width: 85px; }
